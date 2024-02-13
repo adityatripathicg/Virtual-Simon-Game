@@ -1,7 +1,7 @@
 let gameSeq = [];
 let userSeq = [];
 let btns = ["yellow", "grey", "purlple", "red"];
-//fixed level bug
+
 let started = false;
 let level = 0;
 let highscore = 1;
